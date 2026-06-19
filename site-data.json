@@ -1,0 +1,324 @@
+{
+  "business": {
+    "name": "Locksmith Key Express",
+    "shortName": "Key Express",
+    "tagline": "Dallas’s Trusted Emergency & Residential Locksmith",
+    "niche": "Locksmith",
+    "phone": "(214) 685-9820",
+    "address": "1543 Madrid St, Dallas, TX 75216",
+    "city": "Dallas, TX",
+    "hours": "Mon–Sun: Open 24/7",
+    "ctaLabel": "Get a Free Quote",
+    "headerCta": "Call Now"
+  },
+  "seo": {
+    "title": "Locksmith Key Express | 24/7 Emergency Locksmith in Dallas, TX",
+    "description": "Fast, reliable locksmith services in Dallas, TX. Call (214) 685-9820 for emergency lockout, key duplication, lock repair, and smart lock installation. 5-star service, 24/7."
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "Dallas Locksmith – Available 24/7",
+      "headline": "Locked Out? We’re There in Minutes",
+      "subheadline": "Emergency lockout, lock repair, and security upgrades for Dallas homeowners and businesses. Trusted, fast, and affordable.",
+      "primaryCta": "Call (214) 685-9820",
+      "secondaryCta": "Get a Free Quote"
+    },
+    "stats": [
+      {
+        "value": "5.0",
+        "label": "Star Rating"
+      },
+      {
+        "value": "15+",
+        "label": "Years Experience"
+      },
+      {
+        "value": "500+",
+        "label": "Happy Customers"
+      },
+      {
+        "value": "24/7",
+        "label": "Emergency Service"
+      }
+    ],
+    "featureSections": [
+      {
+        "eyebrow": "Residential Locksmith",
+        "title": "Keep Your Home Safe & Secure",
+        "body": "From lockouts to lock upgrades, we provide fast, professional residential locksmith services throughout Dallas. Our technicians are background-checked and arrive in a fully stocked vehicle to handle any issue on the spot.",
+        "bullets": [
+          "Emergency lockout response in 20 minutes",
+          "Deadbolt installation & rekeying",
+          "Smart lock setup & keyless entry"
+        ],
+        "reverse": false,
+        "cardLabel": "Residential",
+        "cardTitle": "Home Security Solutions",
+        "cardBody": "Protect what matters most with expert lock installation, repair, and emergency access."
+      },
+      {
+        "eyebrow": "Commercial Locksmith",
+        "title": "Protect Your Business with Confidence",
+        "body": "We understand that downtime costs money. That’s why our commercial locksmith team offers rapid response for lockouts, master key systems, and high-security lock installations. We work with offices, retail stores, and warehouses across Dallas.",
+        "bullets": [
+          "Master key system design & installation",
+          "High-security locks & access control",
+          "Emergency commercial lockout service"
+        ],
+        "reverse": true,
+        "cardLabel": "Commercial",
+        "cardTitle": "Business Security Upgrades",
+        "cardBody": "Secure your assets with commercial-grade locks, access control, and 24/7 support."
+      }
+    ],
+    "whyTitle": "Why Dallas Homeowners Choose Us",
+    "whyChooseUs": [
+      {
+        "title": "Fast Response Times",
+        "description": "We know being locked out is stressful. That’s why we aim to reach you in under 20 minutes anywhere in Dallas."
+      },
+      {
+        "title": "Transparent Pricing",
+        "description": "No hidden fees, no surprises. We give you a clear quote upfront before any work begins."
+      },
+      {
+        "title": "Licensed & Insured Technicians",
+        "description": "All our locksmiths are fully licensed, insured, and background-checked for your peace of mind."
+      },
+      {
+        "title": "24/7 Emergency Service",
+        "description": "Day or night, weekends and holidays — we’re always here to help with any lock or key emergency."
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "I locked myself out of my car at 2 AM and they were there in 15 minutes. Super friendly and affordable. Highly recommend!",
+        "author": "Jessica R.",
+        "role": "Oak Lawn Resident"
+      },
+      {
+        "quote": "They rekeyed my entire house after I moved in. Quick, professional, and the price was fair. Will use again.",
+        "author": "Mark T.",
+        "role": "Lakewood Homeowner"
+      },
+      {
+        "quote": "Our office needed a master key system and they did a flawless job. Minimal disruption to our workday.",
+        "author": "Linda S.",
+        "role": "Office Manager, Downtown Dallas"
+      }
+    ],
+    "cta": {
+      "headline": "Ready to Secure Your Property?",
+      "subheadline": "Call us now for fast, reliable locksmith service in Dallas.",
+      "primaryCta": "Call (214) 685-9820",
+      "secondaryCta": "Get a Free Quote"
+    }
+  },
+  "servicesPage": {
+    "intro": "From emergency lockouts to advanced security systems, Locksmith Key Express offers a full range of locksmith services for homes, businesses, and vehicles in Dallas. Our technicians are skilled, insured, and ready to help 24/7."
+  },
+  "services": [
+    {
+      "icon": "01",
+      "title": "Emergency Lockout Service",
+      "shortDescription": "Locked out of your home, car, or office? We’ll get you back in fast — 24/7.",
+      "longDescription": "Being locked out is never convenient, but our rapid response team is. We serve all of Dallas with a 20-minute average arrival time. Whether you lost your keys, broke a key in the lock, or have a malfunctioning smart lock, we’ll have you inside quickly and safely.",
+      "benefits": [
+        "Average 20-minute response time",
+        "No damage to your property",
+        "Available 24/7 including holidays"
+      ],
+      "process": [
+        {
+          "title": "Call Us",
+          "description": "Dial (214) 685-9820. We’ll ask for your location and lock type and dispatch the nearest technician."
+        },
+        {
+          "title": "We Arrive & Assess",
+          "description": "Our technician arrives with all necessary tools and provides a clear upfront price."
+        },
+        {
+          "title": "You’re Back Inside",
+          "description": "We unlock your door quickly and safely, with no damage to your lock or door."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "How much does an emergency lockout cost?",
+          "answer": "Prices vary based on time and complexity, but we always provide a free quote before starting. Most residential lockouts start around $75."
+        },
+        {
+          "question": "Do you charge extra for late-night calls?",
+          "answer": "We have a flat rate for after-hours service, but we never add surprise fees. Call us for a transparent quote."
+        }
+      ],
+      "slug": "emergency-lockout-service"
+    },
+    {
+      "icon": "02",
+      "title": "Residential Lock Services",
+      "shortDescription": "Upgrade, repair, or rekey your home locks for better security and peace of mind.",
+      "longDescription": "Your home’s security starts with quality locks. We install, repair, and rekey all types of residential locks, including deadbolts, knob locks, smart locks, and more. Our team can also upgrade your entire home to a keyless entry system for convenience and safety.",
+      "benefits": [
+        "Enhanced home security",
+        "Keyless entry and smart lock integration",
+        "Rekeying services for new homeowners"
+      ],
+      "process": [
+        {
+          "title": "Consultation",
+          "description": "We discuss your security needs and inspect your current locks."
+        },
+        {
+          "title": "Recommendation",
+          "description": "We suggest the best lock types for your doors and budget."
+        },
+        {
+          "title": "Installation or Rekey",
+          "description": "Our technician professionally installs or rekeys your locks, testing each one for proper function."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Should I rekey or replace my locks?",
+          "answer": "Rekeying is cheaper if your locks are in good condition and you just want new keys. Replace if locks are old or damaged."
+        },
+        {
+          "question": "Can you install smart locks on any door?",
+          "answer": "Most standard doors can accommodate smart locks. We’ll assess your door thickness and alignment to ensure compatibility."
+        }
+      ],
+      "slug": "residential-lock-services"
+    },
+    {
+      "icon": "03",
+      "title": "Commercial Locksmith Services",
+      "shortDescription": "Protect your business with high-security locks, master key systems, and access control.",
+      "longDescription": "We help Dallas businesses secure their premises with commercial-grade locks, master key systems, and electronic access control. Our services minimize downtime and provide scalable security solutions for offices, retail stores, warehouses, and multi-tenant buildings.",
+      "benefits": [
+        "Master key systems for easy access management",
+        "High-security locks to prevent picking and bumping",
+        "Access control integration with existing systems"
+      ],
+      "process": [
+        {
+          "title": "Security Audit",
+          "description": "We evaluate your current security setup and identify vulnerabilities."
+        },
+        {
+          "title": "Custom Solution Design",
+          "description": "We design a master key system or access control plan tailored to your business."
+        },
+        {
+          "title": "Professional Installation",
+          "description": "Our team installs and tests all hardware, providing training for your staff."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "How does a master key system work?",
+          "answer": "A master key opens all locks in your building, while individual keys open only specific doors. It’s ideal for offices with different access levels."
+        },
+        {
+          "question": "Do you offer emergency commercial service?",
+          "answer": "Yes, we provide 24/7 emergency lockout and lock repair for businesses. Call us anytime."
+        }
+      ],
+      "slug": "commercial-locksmith-services"
+    },
+    {
+      "icon": "04",
+      "title": "Automotive Locksmith Services",
+      "shortDescription": "Car lockouts, key replacement, and transponder key programming for all makes and models.",
+      "longDescription": "Whether you’re locked out of your car, need a spare key, or have a broken key stuck in the ignition, our automotive locksmiths can help. We work on all vehicle types, including cars, trucks, motorcycles, and RVs. We also program transponder keys and remote fobs on-site.",
+      "benefits": [
+        "On-site key cutting and programming",
+        "Service for all vehicle makes and models",
+        "Fast response to roadside emergencies"
+      ],
+      "process": [
+        {
+          "title": "Call for Assistance",
+          "description": "Provide your vehicle’s make, model, and year so we bring the right equipment."
+        },
+        {
+          "title": "Technician Arrives",
+          "description": "We come to your location anywhere in Dallas."
+        },
+        {
+          "title": "Key Made or Lock Opened",
+          "description": "We unlock your car or cut and program a new key on the spot."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Can you make a key for a car with a transponder?",
+          "answer": "Yes, we have the equipment to program transponder keys and smart keys for most vehicles."
+        },
+        {
+          "question": "What if my key breaks in the ignition?",
+          "answer": "We can extract the broken key and either repair the ignition or cut a new key. Call us for help."
+        }
+      ],
+      "slug": "automotive-locksmith-services"
+    }
+  ],
+  "about": {
+    "headline": "Your Trusted Dallas Locksmith",
+    "mission": "To provide fast, transparent, and professional locksmith services that keep Dallas residents and businesses safe and secure.",
+    "story": [
+      "Locksmith Key Express was founded with a simple mission: bring honesty and speed back to the locksmith industry. Our founder, a Dallas native, saw too many customers overcharged and left waiting for hours. We set out to change that by building a team of skilled, background-checked technicians who arrive fully equipped and give upfront pricing.",
+      "Today, we serve the entire Dallas metro area with 24/7 emergency service, residential and commercial lock solutions, and automotive key programming. We’re proud of our 5.0 rating and the trust our community places in us. Every job, big or small, gets the same commitment to quality and reliability."
+    ],
+    "highlight": {
+      "stat": "5.0",
+      "label": "Average Customer Rating"
+    },
+    "coreValues": [
+      {
+        "title": "Integrity",
+        "description": "We believe in honest pricing and transparent communication. No hidden fees, no upsells."
+      },
+      {
+        "title": "Speed",
+        "description": "We know your time is valuable. Our average response time is under 20 minutes."
+      },
+      {
+        "title": "Expertise",
+        "description": "Our technicians undergo continuous training on the latest lock and security technologies."
+      },
+      {
+        "title": "Community",
+        "description": "We’re proud to be a local Dallas business serving our neighbors with care and respect."
+      }
+    ]
+  },
+  "contact": {
+    "headline": "Get in Touch",
+    "subheadline": "Call us or fill out the form for a free quote. We’re available 24/7.",
+    "primaryCta": "Call (214) 685-9820",
+    "formCta": "Send Message",
+    "serviceAreas": [
+      "Dallas",
+      "Oak Lawn",
+      "Lakewood",
+      "Uptown",
+      "Downtown Dallas",
+      "Highland Park",
+      "University Park",
+      "Preston Hollow"
+    ]
+  },
+  "social_proof": {
+    "rating": 5.0,
+    "reviews": null
+  },
+  "meta": {
+    "niche": "Locksmith",
+    "generated_by": "deepseek",
+    "review_snippets_used": 0
+  },
+  "phone_href": "tel:2146859820",
+  "current_year": 2026,
+  "header_cta": "Call Now"
+}
